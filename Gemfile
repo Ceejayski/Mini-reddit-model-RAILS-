@@ -50,3 +50,5 @@ end
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
 gem 'email_validator'
+
+gem 'rubocop', '~> 1.3'
